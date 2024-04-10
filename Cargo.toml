@@ -10,6 +10,7 @@ members = [
     "otexplorer",
     "skrifa",
     "fauntlet",
+    "font-subset",
 ]
 
 [workspace.dependencies]
